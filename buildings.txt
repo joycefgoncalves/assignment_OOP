@@ -1,0 +1,3 @@
+Tower A,20
+Apartment Complex,10
+Office Building,15
